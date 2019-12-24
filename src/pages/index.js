@@ -10,7 +10,7 @@ const IndexPage = () => {
       <Layout>
         <Head title="Home" />
         <h1>Hello.</h1>
-        <h2>I'm Urbano 你好</h2>
+        <h2>I'm Urbano from sunny Miami, FL. I love web dev and I'm also trying to learn Chinese (Mandarin). 你好</h2>
         <p>Need a developer <Link to="/contact">Contact me.</Link></p>
         <p>Follow me on <a href="https://twitter.com/ubaz_3">Twitter</a></p>
       </Layout>
