@@ -8,8 +8,7 @@ const ContactPage = () => {
     <div>
       <Layout>
         <Head title="Contact" />
-        <h1>Contact Page</h1>
-        <h2>Contact me at urbanobaz (at) yahoo.com</h2>
+        <h1>Improvements Needed</h1>
       </Layout>
     </div>
   )
